@@ -1,4 +1,4 @@
-module wast-go
+module github.com/tfkhdyt/wast-go
 
 go 1.19
 
